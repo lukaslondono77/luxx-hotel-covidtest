@@ -1,0 +1,1 @@
+# luxx-hotel-covidtest
